@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Jahangir Alam Jibon 👋
-### CSE Graduate | AI & ML Engineer | Full-Stack & Automation Developer
+### CSE Graduate | AI & ML Engineer | Automation Developer
 
 <p align="center">
   <a href="https://github.com/Jibon4744">
